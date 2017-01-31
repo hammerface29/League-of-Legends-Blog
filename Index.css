@@ -1,4 +1,7 @@
 nav {
-    float: left;
-    background-color: #383a3d
+    display: inline;
+}
+
+body {
+    background-color: #383a3d;
 }
