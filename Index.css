@@ -1,7 +1,25 @@
+nav img {
+    width: 270px;
+}
+
 nav {
-    display: inline;
+    margin: 0 auto;
+    width: 270px;
 }
 
 body {
-    background-color: #383a3d;
+    background-image: url("LoL-Blog-Bagrund.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#midlane {
+    background-color: white;
+    width: 80%;
+    height: 2000px;
+    margin: 0 auto;
+    border: solid black;
+    margin-bottom: 50px;
+    margin-top: 30px
 }
