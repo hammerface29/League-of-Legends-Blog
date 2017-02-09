@@ -21,5 +21,10 @@ body {
     margin: 0 auto;
     border: solid black;
     margin-bottom: 50px;
-    margin-top: 30px
+    margin-top: 30px;
+}
+
+.Blog-post {
+    border-bottom: solid black;
+    height: 200px
 }
