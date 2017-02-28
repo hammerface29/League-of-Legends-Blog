@@ -15,7 +15,7 @@ body {
 }
 
 #midlane {
-    background-color: white;
+    background-color: #f4f4f4;
     width: 80%;
     height: 2000px;
     margin: 0 auto;
@@ -25,6 +25,8 @@ body {
 }
 
 .Blog-post {
-    border-bottom: solid black;
-    height: 200px
+    border: solid black;
+    height: 200px;
+    margin: 20px;
+    background-color: #dbdbdb;
 }
